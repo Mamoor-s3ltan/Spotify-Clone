@@ -10,6 +10,7 @@ This project is a clone of the popular music streaming platform Spotify, created
 - **Custom Player with Volume Controls:** Unlike the original Spotify web player, this clone incorporates a custom player with volume control functionality, allowing users to adjust the volume according to their preferences.
 - **Clickable Song Cards:** Users can access songs by clicking on the song cards, which are designed to resemble the album artwork or cover of each song. This intuitive interface makes it easy for users to navigate through the available music library.
 
+<img width="960" alt="Spotify1" src="https://github.com/Mamoor-s3ltan/Spotify-Clone/assets/129288965/38535cbb-84e4-4f4e-90bb-8caafb0b48db">
 
 
 ## Technologies Used
